@@ -36,3 +36,15 @@ vim script.bash
 
 ![image](img5.png)
 
+Сохраним файл и закроем текстовый редактор `vim` с помощью `:wq`
+
+6. Запускаем bash-скрипт, с помощью команды
+```bash
+bash script.bash
+```
+![image](img6.png)
+
+Результатом того, что мы всё сделали верно, является отображение строки `Welcome to ITMO University`
+
+
+
